@@ -1,0 +1,2 @@
+Gopika is an aspiring Software Developer
+Learning Git and GitHub
