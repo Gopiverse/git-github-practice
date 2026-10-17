@@ -1,2 +1,2 @@
-# Git and GitHub Prctise
-Learning Git on Windows 11.
+# Git and GitHub Practice
+Learning Git from the main branch.
