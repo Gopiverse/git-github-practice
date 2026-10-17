@@ -1,2 +1,2 @@
 # Git and GitHub Practice
-Learning Git from the feature branch.
+Learning Git from both main and feature branches.
